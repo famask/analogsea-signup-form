@@ -1,0 +1,99 @@
+body {
+  background-color: #298EEA;
+  padding-top: 60px;
+  height: 100%;
+}
+
+main {
+  width: 320px;
+  height: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+.logo {
+  height: 35px;
+  position: relative;
+  left: 70px;
+  bottom: 20px;
+}
+
+section {
+  background-color: transparent;
+}
+
+fieldset {
+  border: none;
+}
+
+form {
+  border-radius: 3px;
+  background-color: white;
+  padding: 10px;
+}
+
+.sign-up {
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  padding-top: 30px;
+  margin-bottom: 30px;
+}
+
+input {
+  display: block;
+  font-size: 18px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 70px;
+  border-radius: 3px;
+  border: 1px solid #999;
+}
+
+label {
+  display: block;
+  position: relative;
+  left: 2px;
+}
+
+button {
+  display: block;
+  background-color: #15cd72;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 3px;
+  border: none;
+  margin-bottom: 10px;
+}
+
+a {
+  display: block;
+  text-align: center;
+  font-size: 13px;
+  color: #999;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  font-size: 14px;
+  color: white;
+}
+
+p a {
+  color: white;
+  display: inline;
+}
